@@ -1,0 +1,2 @@
+# scientific-number
+automata assigment
